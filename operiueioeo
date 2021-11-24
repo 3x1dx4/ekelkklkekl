@@ -26,6 +26,12 @@ $database = array(
 		array(
 		"key" => "key_synapse",
 		"hwid" => "b34985ad28f62dd6ceb7bf530b0526fe9cc432f298664da012b50c0baf7d4e28c185c4ff1b0ad1673541c1b74b97a7ee4679cbc8b5bb27e1d6982a0db1913f13"
+	    
+	    ),
+	        array(
+		"key" => "key_synapse",
+		"hwid" => "067c34fda7c510fd33036bde53af64d3eab1af9392533cdbb6e156a7bb6a9ce029f45d93177b6046bb318fc253229a3db4d30a61547b7d5b0e1105cad6d1b6e3"
+	      
 );
 
 function fetch_hwid($headers) {
